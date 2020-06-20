@@ -51,7 +51,7 @@ My decision to use 3 separate models to predict the effectiveness of each offer 
 Meanwhile, for BOGO and discount models, I am quite happy with the 80% and above accuracy, as in a business setting that would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
 
-The main observations of the code are published [here](https://medium.com/@smittal3797/sending-out-starbucks-offer-in-a-more-intelligent-manner-2b0dd2af6514).
+The main observations of the code are published [here](https://medium.com/@basnetjunth/sending-starbucks-offer-in-a-more-smart-manner-21fcae48b303).
 
 ### Licensing, Authors, Acknowledgements, etc.<a name="license"></a>
 
